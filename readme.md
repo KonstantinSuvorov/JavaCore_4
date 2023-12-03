@@ -21,6 +21,6 @@
 
 Программа должна обрабатывать все исключения с помощью конструкции try-catch, выводя соответствующие сообщения об ошибках.
 
-[link for programm 2](src\main\java\ru\geekbrains\example2\Main.java)
+[link for programm 2](src/main/java/ru/geekbrains/example2/Main.java)
 ________________________________________
 Достаточно выполнить только первую задачу [✓ done](), вторая задача является дополнительной. [✓ done]()
