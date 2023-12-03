@@ -12,7 +12,7 @@
 
 — программа должна обрабатывать все исключения с помощью конструкции try-catch, выводя соответствующие сообщения об ошибках.
 
-[link for programm 1](src\main\java\ru\geekbrains\example1\Main.java)
+[link for programm 1](src/main/java/ru/geekbrains/example1/Main.java)
 
 2*. Создать несколько типов счетов, унаследованных от Account, например: CreditAccount, DebitAccount.
 Создать класс (Transaction), позволяющий проводить транзакции между счетами (переводить сумму с одного счета на другой)
